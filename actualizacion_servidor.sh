@@ -1,5 +1,5 @@
 cd world
-git add *
+git commit -m "Actualizacion Servidor"
 git push
 cd ..
 echo "Actualizacion general de servidor";
