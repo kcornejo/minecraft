@@ -1,5 +1,5 @@
 cd world
-git commit -m "Actualizacion Servidor" + echo date('Y-m-d')
+git commit -m "Actualizacion Servidor"
 git add .
 git add *
 git push
